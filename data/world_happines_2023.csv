@@ -1,4 +1,4 @@
-﻿Country name,Ladder score,Standard error of ladder score,upperwhisker,lowerwhisker,Logged GDP per capita,Social support,Healthy life expectancy,Freedom to make life choices,Generosity,Perceptions of corruption,Ladder score in Dystopia,Explained by: Log GDP per capita,Explained by: Social support,Explained by: Healthy life expectancy,Explained by: Freedom to make life choices,Explained by: Generosity,Explained by: Perceptions of corruption,Dystopia + residual
+﻿Country,Happiness,SE,upperwhisker,lowerwhisker,Logged_GDP,Social_Support,Healthy_Life_Expectancy,Freedom,Generosity,Corruption,Dystopia,Explained_by_GDP,Explained_by_Social_Support,Explained_by_Life_Lxpectancy,Explained_by_Freedom,Explained_by_Generosity,Explained_by_Corruption,Dystopia_residual
 Finland,7.804,0.036,7.875,7.733,10.792,0.969,71.150,0.961,-0.019,0.182,1.778,1.888,1.585,0.535,0.772,0.126,0.535,2.363
 Denmark,7.586,0.041,7.667,7.506,10.962,0.954,71.250,0.934,0.134,0.196,1.778,1.949,1.548,0.537,0.734,0.208,0.525,2.084
 Iceland,7.530,0.049,7.625,7.434,10.896,0.983,72.050,0.936,0.211,0.668,1.778,1.926,1.620,0.559,0.738,0.250,0.187,2.250
