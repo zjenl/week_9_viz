@@ -55,7 +55,7 @@
             "fields": ["Happiness", "Logged_GDP", "Social_Support", "Healthy_Life_Expectancy", "Freedom", "Generosity", "Corruption"]
           }
         },
-        {"calculate": "datum.Happiness", "as": "Happiness Scores"
+        {"calculate": "datum['Happiness']", "as": "Happiness Scores"
         }
       ],
       "mark": {"type": "geoshape", "stroke": "white"},
